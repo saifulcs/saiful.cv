@@ -6,11 +6,11 @@ photo_url: "my-photo.jpg"
 
 # This is an optional section
 # You can skip filling in one or more of the items in this section
-email: "tahanimachowdhury@gmail.com"
-linkedin: "http://linkedin.com/in/tahanima-chowdhury"
-github: "https://github.com/Tahanima"
-website: "http://tahanima.github.io/"
-medium: "https://tahanima.medium.com/"
+email: "saifulcs40@gmail.com"
+linkedin: "http://linkedin.com/in/saifcs40"
+github: "https://github.com/saifulcs"
+website: "#"
+medium: "#"
 
 markdown: kramdown
 theme: minima
